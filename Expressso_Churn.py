@@ -98,7 +98,7 @@ model = pickle.load(open('Expresso_churn.pkl', "rb"))
 st.markdown("<h1 style = 'color: #00092C; text-align: center; font-family:  'Segoe UI', Tahoma, Geneva, Verdana,  Helvetica, sans-serif'>EXPRESSO CHURN</h1>", unsafe_allow_html=True)
 st.markdown("<h6 style = 'margin: -15px; color: #B20600; text-align: center; font-family: Arial, Helvetica, sans-serif'>Churn Prediction for Expresso Clients</p></h6>", unsafe_allow_html=True)
 
-st.image('pngwing.com (9).png',width = 650) #---- to give it image
+st.image('pngwing.com (15).png',width = 650) #---- to give it image
 st.markdown("<h5 style='color: #ffffff; background-color: #333333; text-align: center; padding: 5px; font-family: Arial, sans-serif;'>BACKGROUND OF STUDY</h5>", unsafe_allow_html=True)
 
 st.markdown('<br1>', unsafe_allow_html= True)
